@@ -129,7 +129,7 @@ settings: # Обязательная секция
 
 > Примеры аттрибутов\
  ```GENERIC_MAX_HEALTH:ADD_SCALAR:0.50```, +50% к максимальному здоровью\
- ```GENERIC_LUCK:ADD_NUMBER:1```, +1 к удаче
+ ```GENERIC_LUCK:ADD_NUMBER:1```, +1 к удаче\
 Более подробно об аттрибутах и базовых значениях вы можете посмотреть [здесь](https://minecraft.fandom.com/wiki/Attribute)
 
 ### Плейсходеры
